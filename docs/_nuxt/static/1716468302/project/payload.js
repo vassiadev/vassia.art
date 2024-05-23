@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:[]});
